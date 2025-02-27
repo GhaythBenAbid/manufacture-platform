@@ -48,7 +48,7 @@ export default function Hero() {
         <div className="grid grid-cols-2 gap-8 max-w-4xl mx-auto">
           <div className="bg-white/5 hidden md:block rounded-3xl p-6 backdrop-blur-sm">
             <Image 
-              src="https://assets.grok.com/users/e8d06fb6-7d4b-41da-bd88-3a0c32f7b59d/9NcUWQ3MLOilFesS-generated_image.jpg"
+              src='/hero-image.jpg'
               alt="Construction Worker"
               width={400}
               height={500}
