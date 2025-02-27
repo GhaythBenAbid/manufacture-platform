@@ -75,7 +75,7 @@ export default function Hero() {
 
         {/* Contact Button */}
         <div className="my-32 md:my-16 text-center">
-          <p className="text-gray-400 mb-4">It's free for consultation</p>
+          <p className="text-gray-400 mb-4">It&apos;s free for consultation</p>
           <button className="bg-[#66CA98] text-white px-8 py-3 rounded-full hover:bg-[#54b583] inline-flex items-center gap-2">
             Contact Us
           </button>
