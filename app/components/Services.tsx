@@ -46,7 +46,7 @@ export default function Services() {
         </div>
 
         <div className="space-y-12">
-          {services.map((service, index) => (
+          {services.map((service) => (
             <div 
               key={service.title}
               className="group border-t border-gray-100 hover:bg-[#0A2E36] first:border-none first:pt-0 rounded-2xl transition-all duration-300"

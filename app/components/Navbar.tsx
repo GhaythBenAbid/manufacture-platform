@@ -1,4 +1,3 @@
-import Image from 'next/image';
 import Link from 'next/link';
 
 export default function Navbar() {
@@ -24,7 +23,7 @@ export default function Navbar() {
       </div>
 
       <button className="bg-[#66CA98] text-white px-6 py-2 rounded-full hover:bg-[#54b583]">
-        Let's Talk
+        Let&apos;s Talk
       </button>
     </nav>
   );

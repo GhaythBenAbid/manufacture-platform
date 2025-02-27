@@ -37,7 +37,7 @@ export default function FAQ() {
             Support Available
           </h2>
           <p className="text-gray-600 mb-8">
-            In case you're still looking for answers.
+            In case you&apos;re still looking for answers.
           </p>
           <button className="bg-[#66CA98] text-white px-8 py-3 rounded-full hover:bg-[#54b583] inline-flex items-center gap-2">
             Contact Support
